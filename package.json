@@ -1,15 +1,14 @@
-
 {
-    "name": "@abu-sufian/isemptyarray",
-    "version": "1.0.0",
-    "description": "Empty array checking module",
-    "license": "MIT",
-    "repository": "Sufian-Abu/isemptyarray",
-    "main": "index.js",
-    "keywords": [
-      "isemptyarray",
-      "npm",
-      "package",
-      "abu-sufian"
-    ]
-  }
+  "name": "@abu-sufian/isemptyarray",
+  "version": "2.0.0",
+  "description": "Empty array checking module",
+  "license": "MIT",
+  "repository": "Sufian-Abu/isemptyarray",
+  "main": "index.js",
+  "keywords": [
+    "isemptyarray",
+    "npm",
+    "package",
+    "abu-sufian"
+  ]
+}
