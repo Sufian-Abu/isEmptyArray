@@ -13,12 +13,12 @@ $ npm install @abu-sufian/isemptyarray
 ## Usage
 
 ```js
-var isemptyarray = require("@abu-sufian/isemptyarray")
+var isEmptyArray = require("@abu-sufian/isemptyarray")
 
-isemptyarray([]);
+isEmptyArray([]);
 //=> true
 
-isemptyarray(["1"]);
+isEmptyArray(["1"]);
 //=> false
 
 ```
