@@ -3,7 +3,7 @@
   "version": "3.0.2",
   "description": "Empty array checking module",
   "license": "MIT",
-  "repository": "Sufian-Abu/isemptyarray",
+  "repository": "Sufian-Abu/isEmptyArray",
   "main": "index.js",
   "keywords": [
     "isemptyarray",
